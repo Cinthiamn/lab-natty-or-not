@@ -1,7 +1,7 @@
-# Criação de E-book - Desvendando o Mundo Low cod: Um guia de autoajuda para inciantes
+# Criação de E-book - Desvendando o Mundo Low code: Um guia de autoajuda para inciantes
 
 ## Descrição
-Esse é um e-book de leitura rápida para ajudar pessoas sem experiênica em programação a ter uma base sobre as ferramentas low-code
+Esse é um e-book de leitura rápida para ajudar pessoas sem experiência em programação a ter uma base sobre as ferramentas low-code
 
 ## Tecnologias Utilizadas
 COPILOT Microsoft 365 para criar o conteúdo e as imagens
